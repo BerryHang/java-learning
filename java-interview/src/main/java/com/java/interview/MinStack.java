@@ -54,6 +54,4 @@ public class MinStack {
         int minIndex = mins.get(mins.size() - 1);
         return data.get(minIndex);
     }
-
-
 }
